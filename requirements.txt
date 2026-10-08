@@ -1,0 +1,6 @@
+numpy
+torch
+gymnasium
+pandas
+openpyxl
+matplotlib
